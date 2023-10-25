@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Ziladar guide",
+      "author": "K.M Dogar M.A",
+      "edition": "2020",
+      "description": "This guide is specifically written for individuals who wish to attempt competitive exams and aspire to clear the ziladar post examinations."
+    },
+    {
+      "id": 2,
+      "name": "Tehsildar Guide",
+      "author": "Tanveer Iqbal",
+      "description": "This guide is specifically written for individuals who wish to attempt competitive exams and aspire to clear the tehsildar post examinations.",
+      "edition": "2010"
+    }
+  ]
+}
